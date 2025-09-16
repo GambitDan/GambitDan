@@ -1,30 +1,161 @@
-# 💫 About Me:
- 🤝 I’m looking to collaborate on anything Python related<br>🌱 I’m currently learning Python | Web, mobile and cloud technologies | Software Engineering<br>💬 Ask me about anything!<br>📝 I am currently a part time student at "The Open University" [https://open.ac.uk/]<br>👨‍💻 I currently am employed as a design engineer
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</div>
 
+<h1 align="center">
+  Hi, I'm Daniel Houghton 👋
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-houghton86) 
+<p align="center">
+  A Design Engineer transitioning into modern web development. I build beautiful, fast, and user-centric applications with a passion for clean code and great design.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GambitDan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GambitDan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GambitDan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GambitDan&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GambitDan&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <a href="https://linkedin.com/in/daniel-houghton86" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GambitDan&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 My Current Focus: SvelteKit & Tailwind CSS
+
+I'm passionate about crafting exceptional user experiences from concept to deployment. My current toolkit of choice allows me to build highly performant and aesthetically pleasing web applications.
+
+-   **SvelteKit:** For building robust, server-rendered applications with incredible speed and a fantastic developer experience.
+-   **Tailwind CSS:** For rapid, utility-first styling that keeps my designs consistent and my CSS maintainable.
+-   **TypeScript:** To ensure my code is scalable, readable, and type-safe.
+
+---
+
+## 💻 Tech Stack & Tools
+
+This is a snapshot of the technologies I'm currently using or learning.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+      </a>
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+        <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-tech-stack" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌱 About Me
+
+-   👨‍💻 I'm currently employed as a **Design Engineer**, where I focus on problem-solving and creating precise, user-focused products.
+-   🎓 I'm also a part-time student at **[The Open University](https://open.ac.uk/)**, studying Software Engineering to bridge the gap between design and development.
+-   🤝 I’m open to collaborating on open-source projects, especially those using **SvelteKit**, **Python**, or anything related to creative web design.
+-   💬 Feel free to ask me about my journey from mechanical design to software development!
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/GambitDan">
+  <img src="https://github-readme-stats.vercel.app/api?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" />
+</a>
+
+<a href="https://github.com/GambitDan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Daniel's Top Languages" />
+</a>
+
+</div>
+
+<div align="center">
+<a href="https://github.com/GambitDan">
+<img src="https://github-profile-trophy.vercel.app/?username=GambitDan&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=GambitDan&icon=2&color=5" alt="Profile Views"/>
+</div>
