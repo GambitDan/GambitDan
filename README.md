@@ -42,7 +42,7 @@ This is a snapshot of the technologies I'm currently using or learning.
     </td>
     <td align="center" width="96">
       <a href="#-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
       <br>Tailwind
     </td>
