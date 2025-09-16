@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  A Design Engineer transitioning into modern web development. I build beautiful, fast, and user-centric applications with a passion for clean code and great design.
+  A Survey and Alignment Engineer building a second career in modern web development. I apply my passion for precision and data to craft clean, fast, and user-centric applications.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 My Current Focus: SvelteKit & Tailwind CSS
 
-I'm passionate about crafting exceptional user experiences from concept to deployment. My current toolkit of choice allows me to build highly performant and aesthetically pleasing web applications.
+I'm focused on crafting exceptional user experiences from concept to deployment. My current toolkit allows me to build highly performant and aesthetically pleasing web applications.
 
 -   **SvelteKit:** For building robust, server-rendered applications with incredible speed and a fantastic developer experience.
 -   **Tailwind CSS:** For rapid, utility-first styling that keeps my designs consistent and my CSS maintainable.
@@ -127,10 +127,10 @@ This is a snapshot of the technologies I'm currently using or learning.
 
 ## 🌱 About Me
 
--   👨‍💻 I'm currently employed as a **Design Engineer**, where I focus on problem-solving and creating precise, user-focused products.
--   🎓 I'm also a part-time student at **[The Open University](https://open.ac.uk/)**, studying Software Engineering to bridge the gap between design and development.
--   🤝 I’m open to collaborating on open-source projects, especially those using **SvelteKit**, **Python**, or anything related to creative web design.
--   💬 Feel free to ask me about my journey from mechanical design to software development!
+-   👨‍💻 I'm a **Survey and Alignment Engineer** at the **[Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/)**, working on high-precision metrology for large-scale science experiments.
+-   🎓 I'm also a part-time student at **[The Open University](https://open.ac.uk/)**, studying Software Engineering to formally bridge my engineering background with my passion for code.
+-   🤝 I’m open to collaborating on open-source projects, especially those using **SvelteKit**, **Python**, or anything related to data visualization.
+-   💬 Feel free to ask me about my journey from precision engineering to software development!
 
 ---
 
@@ -138,20 +138,12 @@ This is a snapshot of the technologies I'm currently using or learning.
 
 <div align="center">
 
-<a href="https://github.com/GambitDan">
-  <img src="https://github-readme-stats.vercel.app/api?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" />
 
-<a href="https://github.com/GambitDan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Daniel's Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Daniel's Top Languages" />
 
-</div>
-
-<div align="center">
-<a href="https://github.com/GambitDan">
 <img src="https://github-profile-trophy.vercel.app/?username=GambitDan&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</a>
+
 </div>
 
 <br>
