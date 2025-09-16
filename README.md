@@ -140,7 +140,7 @@ This is a snapshot of the technologies I'm currently using or learning.
 
 <img src="https://github-readme-stats.vercel.app/api?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Daniel's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GambitDan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Daniel's Top Languages" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=GambitDan&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
