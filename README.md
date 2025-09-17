@@ -67,22 +67,9 @@ Crafting exceptional user experiences from concept to deployment with:
 
 <div align="center">
 
-<!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GambitDan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GambitDan&bg_color=0d1117&color=79c0ff&line=79c0ff&point=fefefe&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GambitDan&icon=2&color=5" alt="Profile Views"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GambitDan&icon=2&color=5" alt="Profile Views"/>
-</div>
