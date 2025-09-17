@@ -49,17 +49,36 @@ Crafting exceptional user experiences from concept to deployment with:
 
 ## 📊 GitHub Highlights
 
+<div ---
+
+## 🛠 My Current Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="SvelteKit">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+---
+
+## 📊 GitHub Highlights
+
 <div align="center">
 
-<!-- Metrics card – languages including private repos -->
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt="Metrics" />
-
-<!-- Streak card -->
+<!-- Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GambitDan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<!-- Activity graph -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GambitDan&bg_color=0d1117&color=79c0ff&line=79c0ff&point=fefefe&hide_border=true" alt="GitHub Activity Graph" />
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=GambitDan&icon=2&color=5" alt="Profile Views"/>
 </div>
 
 <br>
